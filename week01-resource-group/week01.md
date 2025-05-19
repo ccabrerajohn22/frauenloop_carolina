@@ -22,3 +22,15 @@ Tutorial on git and VScode:https://code.visualstudio.com/docs/sourcecontrol/over
 Terraform Task: DONE
 Install Terraform & VS Code extension.
 Run terraform init + terraform version.
+
+
+Additional Tips from research:
+Always run terraform plan before terraform apply to preview changes
+
+Use terraform fmt to keep your code consistently formatted
+
+Regularly pull from GitHub to keep your local copy updated
+
+Document your progress thoroughly in the weekly markdown files
+
+This setup will give you a solid foundation for your 12-week FrauenLoop Terraform learning journey on Windows.
