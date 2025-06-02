@@ -1,15 +1,9 @@
-# Local .terraform directories
-**/.terraform/*
-.terraform/
-.terraform.lock.hcl
-
-# .tfstate files
+# Terraform
 *.tfstate
 *.tfstate.*
-
-# Crash log files
-crash.log
+.terraform/
 .crash
+.terraform.lock.hcl
 
 # VS Code
 .vscode/
